@@ -10,7 +10,7 @@
 
 </ul>
 
-<span>Tu peux générer ta clé pour discuter avec l'API ici : [https://api.nasa.gov/index.html#authentication](https://api.nasa.gov/index.html#authentication)</span>
+<span>Générer sa clé pour discuter avec l'API ici : [https://api.nasa.gov/index.html#authentication](https://api.nasa.gov/index.html#authentication)</span>
 
 <h2>Installation</h2>
 
