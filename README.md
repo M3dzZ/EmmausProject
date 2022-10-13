@@ -16,7 +16,7 @@
 
 <h3>Back-end</h3>
 
-<span>Après avoir cloné le repository, dans le dossiers backend importer Django avec la version `4.1.2`</span>
+<span>Après avoir cloné le repository, dans le dossiers backend importer Django avec la version `4.1.2` :</span>
 
 ### `pip install Django==4.1.2`
 
