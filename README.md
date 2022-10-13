@@ -24,7 +24,7 @@
 
 ### `python -m pip install django-cors-headers requests`
 
-<span>Une fois Django et les modules téléchargés, toujours dans le dossier backend démarrer le serveur avec la commande :</span>
+<span>Une fois Django et les modules téléchargés, toujours dans le dossier backend démarrer le serveur avec la commande:</span>
 
 ### `py manage.py runserver`
 
