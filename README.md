@@ -28,4 +28,8 @@
 
 <span>Pour démarrer le serveur React, il faut se rendre dans le dossier frontend et lancer la commande :</span>
 
+### `npm install`
+
+Puis la commande :
+
 ### `npm start`
