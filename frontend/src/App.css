@@ -1,0 +1,27 @@
+html{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: Segoe UI,Tahoma,Geneva,Verdana,sans-serif;
+    margin: 30px;
+}
+
+p{
+    margin: 30px 0px;
+}
+
+input {
+    width: 150px;
+    height: 30px;
+    margin: 0px 10px;
+}
+
+button{
+    width: 150px;
+    height: 30px;
+}
+
+.loading{
+    
+color: red;
+font-weight: bold;
+}
