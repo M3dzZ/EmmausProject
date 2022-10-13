@@ -50,3 +50,9 @@ def asteroidLookUpRequest(request):
 
     return HttpResponse(json.dumps(last_five_approach_dates))
 
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('asteroid/', asteroidLookUpRequest),
+    path('asteroids/', asteroidsRequest),
+]
