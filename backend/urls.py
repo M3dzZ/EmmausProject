@@ -1,3 +1,11 @@
+from django.contrib import admin
+from django.urls import path
+from django.http import HttpResponse
+import requests
+import json
+from datetime import datetime
+
+
 api_key = "qtgnmfFv6vapEeEZYKGqFixP8WympINgYwFbMWQo"
 nasa_url = "https://api.nasa.gov/neo/rest/v1/feed?api_key=" + api_key
 lookup_url = "https://api.nasa.gov/neo/rest/v1/neo/"
