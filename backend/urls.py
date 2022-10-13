@@ -1,3 +1,7 @@
+api_key = "qtgnmfFv6vapEeEZYKGqFixP8WympINgYwFbMWQo"
+nasa_url = "https://api.nasa.gov/neo/rest/v1/feed?api_key=" + api_key
+lookup_url = "https://api.nasa.gov/neo/rest/v1/neo/"
+
 
 def asteroidsRequest(request):
 
